@@ -11,3 +11,5 @@
 Obs:. também serve para listar as branch criadas. ex:. git branch
 
 * comando git checkout - comando utilizado para mudar de branch, ex:. git checkout 'nome da branch'
+
+* comando merge - comando utilizado para unir as branches. ex:. git merge 'nom da branch'
