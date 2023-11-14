@@ -6,5 +6,6 @@
 * Comando git fetch
 # Branchs
 
-* comando git branch - comando utilizado para criar uma nove branch
+* comando git branch - comando utilizado para criar uma nove branch e também serve para listar as branch criadas. 
+
 * comando git checkout - comando utilizado para mudar de branch, ex:. git checkout 'nome da branch'
