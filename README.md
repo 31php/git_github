@@ -7,4 +7,4 @@
 # Branchs
 
 * comando git branch - comando utilizado para criar uma nove branch
-* para muda de branch, usa-se o comando git checkout 'nome da branch'
+* comando git checkout - comando utilizado para mudar de branch, ex:. git checkout 'nome da branch'
