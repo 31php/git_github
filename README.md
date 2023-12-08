@@ -1,9 +1,16 @@
 # git_github
 ## salvando alterações no Git
 
+* comando git status - serve para saber o status do arquivo.
+ex:. git status <file-name>
+* comando git add - serve para adicionar as alteções no arquivo.
+ex:. git add <file-name>
+* comando git diff - mostra exatamente as linhas de que foram modificadas.
+ex:. git diff <file-name> 
 * Comando git push - serve para empurrar o arquivo ou a alterção no arquivo para o repositório remoto.
 * comando git pull
 * Comando git fetch
+
 # Branchs
 
 * comando git branch - comando utilizado para criar uma nova branch. ex:. git branch 'nome da branch'
